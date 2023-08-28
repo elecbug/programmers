@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 
 public class Solution {
-    public int binary_serach(List<int> arr, int element) {
+    public int binary_search(List<int> arr, int element) {
         if (arr.Count == 0) {
             return 0;
         }
@@ -35,7 +35,7 @@ public class Solution {
             string[] split = operations[i].Split(' ');
             switch (split[0]) {
                 case "I": {
-                    int idx = binary_serach(binary_array, int.Parse(split[1]));
+                    int idx = binary_search(binary_array, int.Parse(split[1]));
                     binary_array.Insert(idx, int.Parse(split[1]));
                 } 
                     break;
