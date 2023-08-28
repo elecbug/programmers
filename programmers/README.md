@@ -1,6 +1,6 @@
-# programmers
+# Programmers
 
-The **[programmers](https://programmers.co.kr/)** is coding test site in Korea.
+The **[Programmers](https://programmers.co.kr/)** is coding test site in Korea.
 
 Codes that in here are solved questions by me.
 
