@@ -1,0 +1,16 @@
+C:\Users\LSW\source\repos\study-coding-test\Analyze2048\Analyze2048\bin\Debug\net7.0-windows\Analyze2048.exe
+C:\Users\LSW\source\repos\study-coding-test\Analyze2048\Analyze2048\bin\Debug\net7.0-windows\Analyze2048.deps.json
+C:\Users\LSW\source\repos\study-coding-test\Analyze2048\Analyze2048\bin\Debug\net7.0-windows\Analyze2048.runtimeconfig.json
+C:\Users\LSW\source\repos\study-coding-test\Analyze2048\Analyze2048\bin\Debug\net7.0-windows\Analyze2048.dll
+C:\Users\LSW\source\repos\study-coding-test\Analyze2048\Analyze2048\bin\Debug\net7.0-windows\Analyze2048.pdb
+C:\Users\LSW\source\repos\study-coding-test\Analyze2048\Analyze2048\obj\Debug\net7.0-windows\Analyze2048.MainForm.resources
+C:\Users\LSW\source\repos\study-coding-test\Analyze2048\Analyze2048\obj\Debug\net7.0-windows\Analyze2048.csproj.GenerateResource.cache
+C:\Users\LSW\source\repos\study-coding-test\Analyze2048\Analyze2048\obj\Debug\net7.0-windows\Analyze2048.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LSW\source\repos\study-coding-test\Analyze2048\Analyze2048\obj\Debug\net7.0-windows\Analyze2048.AssemblyInfoInputs.cache
+C:\Users\LSW\source\repos\study-coding-test\Analyze2048\Analyze2048\obj\Debug\net7.0-windows\Analyze2048.AssemblyInfo.cs
+C:\Users\LSW\source\repos\study-coding-test\Analyze2048\Analyze2048\obj\Debug\net7.0-windows\Analyze2048.csproj.CoreCompileInputs.cache
+C:\Users\LSW\source\repos\study-coding-test\Analyze2048\Analyze2048\obj\Debug\net7.0-windows\Analyze2048.dll
+C:\Users\LSW\source\repos\study-coding-test\Analyze2048\Analyze2048\obj\Debug\net7.0-windows\refint\Analyze2048.dll
+C:\Users\LSW\source\repos\study-coding-test\Analyze2048\Analyze2048\obj\Debug\net7.0-windows\Analyze2048.pdb
+C:\Users\LSW\source\repos\study-coding-test\Analyze2048\Analyze2048\obj\Debug\net7.0-windows\Analyze2048.genruntimeconfig.cache
+C:\Users\LSW\source\repos\study-coding-test\Analyze2048\Analyze2048\obj\Debug\net7.0-windows\ref\Analyze2048.dll
